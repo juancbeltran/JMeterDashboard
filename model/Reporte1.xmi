@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<JMeterLog:Reporte xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:JMeterLog="http://www.uniandes.edu.co/jmeterlog" xsi:schemaLocation="http://www.uniandes.edu.co/jmeterlog JMeterFile.ecore">
+  <archivos>
+    <registros>
+      <elementos/>
+      <elementos/>
+    </registros>
+    <registros>
+      <elementos/>
+      <elementos/>
+      <elementos/>
+      <elementos/>
+    </registros>
+  </archivos>
+</JMeterLog:Reporte>
